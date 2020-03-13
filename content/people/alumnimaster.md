@@ -1,5 +1,5 @@
 +++
-title = "석사"
+title = "석사졸업생"
 date = "2018-03-24T13:39:46+02:00"
 teams = ["졸업생명단"]
 banner = "img/people/alumni.png"
@@ -945,12 +945,52 @@ th.tg-sort-header::-moz-selection { background:transparent; }th.tg-sort-header::
   </tr>
   <tr>
     <td class="tg-s8ju">허은숙</td>
-
     <td class="tg-s8ju">2018년 2월</td>
     <td class="tg-s8ju">Feedback processes responsible for intermodel diversity <br>
                         of ENSO variability</td>
     <td class="tg-s8ju">안순일</td>
-
+  </tr>
+  <tr>
+    <td class="tg-s8ju">유지희</td>
+    <td class="tg-s8ju">2018년 8월</td>
+    <td class="tg-s8ju">Characteristics and sources of inertial-gravity waves <br>
+                        revealed in radiosonde observation at Jang Bogo Station, Antarctica</td>
+    <td class="tg-s8ju">전혜영</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ju">이상대</td>
+    <td class="tg-s8ju">2018년 8월</td>
+    <td class="tg-s8ju">에디 공분산 방법으로 측정한 에너지 및 이산화탄소 플럭스의 <br>
+                        불확정도 정량화</td>
+    <td class="tg-s8ju">홍진규</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ju">김정원</td>
+    <td class="tg-s8ju">2019년 2월</td>
+    <td class="tg-s8ju">Evaluation of Polar WRF over Arctic tundra based on <br>
+                        in-situ observations</td>
+    <td class="tg-s8ju">홍진규</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ju">구헌</td>
+    <td class="tg-s8ju">2019년 2월</td>
+    <td class="tg-s8ju">마이크로파 위성관측으로부터 산출된 대기 안정도지수의 평가 및 <br>
+                        활용 </td>
+    <td class="tg-s8ju">신동빈</td>
+  </tr>
+  <tr>
+    <td class="tg-s8ju">정민주</td>
+    <td class="tg-s8ju">2019년 8월</td>
+    <td class="tg-s8ju">2018년 서해상 봄철 에어로졸과 구름응결핵의 물리적, 화학적<br>
+                        특징 및 기상요소와의 관계 분석</td>
+    <td class="tg-s8ju">염성수</td>
+  </tr>
+    <tr>
+    <td class="tg-s8ju">오치묵</td>
+    <td class="tg-s8ju">2020년 2월</td>
+    <td class="tg-s8ju">여름철 집중호우 시스템의 특성 비교<br>
+                        -2018년 6월과 8월 사례 중심으로-</td>
+    <td class="tg-s8ju">박상훈</td>
   </tr>
 </table></div>
 

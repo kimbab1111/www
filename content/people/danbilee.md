@@ -19,6 +19,7 @@ weight = 30
  + **B.Sc** (2011) in Atmospheric Sciences, Yonsei University, Seoul, Korea
 
 #### 수상내역
+ + (2019.2.26) 우수논문상, 연세대학교 BK21 플러스 지구대기천문사업단
  + (2018.3.23) 항공기상청장상 수상
  + (2014.10.14) 한국기상학회 우수 논문발표상 수상
 
@@ -26,4 +27,5 @@ weight = 30
 + 이단비, 전혜영 (2014), 기상청 통합지역모델을 이용한 계절 한국형 항공난류 예측시스템(계절-KTG) 개발, 대기, 24(2), 235-243.
 + 이단비, 전혜영 (2015), 한반도 및 동아시아 지역에서 조종사 보고 자료로 관측된 항공난류의 통계적 분석, 대기, 25(1), 1-12.
 + 이단비, 전혜영 (2015), 기상청 고해상도 지역예보모델을 이용한 한반도 영역 한국형 항공난류 예측시스템(한반도-KTG) 개발, 대기, 25(2), 367-374.
-+ Lee, D.-B., and H.-Y. Chun, 2018: A numerical study of aviation turbulence encountered on 13 February 2013 over the Yellow Sea between China and the Korean Peninsula. J. Appl. Meteor. Climatol., 57, 1043-1060.
++ Lee, D.-B., and H.-Y. Chun (2018), A numerical study of aviation turbulence encountered on 13 February 2013 over the Yellow Sea between China and the Korean Peninsula. J. Appl. Meteor. Climatol., 57, 1043-1060.
++ 이단비, 전혜영 (2018), 기상청 전지구 수치예보모델을 이용한 전지구 한국형 항공난류 예측시스템(G-KTG) 개발, 대기, 28(2), 223-232.

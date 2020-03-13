@@ -7,14 +7,15 @@ email = "my9356@yonsei.ac.kr"
 job = "박사과정"
 phone = "02-2123-5684"
 room = "기후이론 연구실 / 과학관 536A호"
-web = "http://web.yonsei.ac.kr/climatelab"
+web = "http://climatelab.yonsei.ac.kr"
 weight = 30
 +++
 
 #### 연구분야
 + El Nino-Southern Oscillation (ENSO)
 + Arctic Sea ice
-+ Feedback processes
++ Feedback process
++ Pacific Decadal Oscillation
 
 #### 학력
  + **M.Sc** (2018) in Atmospheric Sciences, Yonsei University, Seoul, Korea
